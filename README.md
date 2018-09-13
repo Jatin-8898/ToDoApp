@@ -9,8 +9,10 @@ git clone https://github.com/Jatin-8898/ToDoApp.git
 
 
 ## Install
+  ```
   Download/clone the repo
   
   Run npm install
   
   Navigate to http://localhost:3000 to view the app
+  ```
