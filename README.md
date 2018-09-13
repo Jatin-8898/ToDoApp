@@ -6,4 +6,4 @@ This is simple todo app for getting started with the crud of MongoDB with expres
   
   Run npm install
   
-  Run gulp and navigate to http://localhost:3000 to view the app
+  Navigate to http://localhost:3000 to view the app
